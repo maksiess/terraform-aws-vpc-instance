@@ -1,4 +1,4 @@
-# terraform-iaac-2020
+# TERRAFORM TASK
 ## Usage of this module 
 ### Create environments.tfvars file  with the following content
 
